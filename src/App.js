@@ -2,6 +2,8 @@ import React from 'react';
 import './App.css';
 
 import PersonCard from './components/PersonCard';
+// import Counter from './components/Counter';
+// import Counter from './components/Counter';
 
 function App() {
   return (
